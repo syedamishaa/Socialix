@@ -49,18 +49,11 @@ While building this project, I improved my understanding of:
 
 ---
 
-## 🎯 Future Improvements
-
-* Dark Mode
-* Contact Form Backend Integration
-* Blog Section
-
----
 
 ## 👩‍💻 Author
 
 **Syeda Mishaa**
 
 * GitHub: https://github.com/syedamishaa
-* LinkedIn: https://www.linkedin.com/in/your-linkedin-profile/
+* LinkedIn: www.linkedin.com/in/syeda-mishaa
 
